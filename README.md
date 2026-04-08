@@ -1,0 +1,2 @@
+# Design-and-Development-of-Intelligent-system-for-Water-cleaning-Robot-using-IoT
+Design and development of an intelligent water cleaning robot using IoT enables automated removal of floating waste from water bodies. It uses sensors, microcontrollers, and wireless communication for real-time monitoring and control. The system reduces human effort, improves efficiency, and ensures eco-friendly water quality management.
